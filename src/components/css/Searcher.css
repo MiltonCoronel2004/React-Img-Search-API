@@ -1,0 +1,12 @@
+
+.searcher-container {
+    background-color: rgba(255, 255, 255, 0.2); /* Fondo blanco transparente */
+    padding: 20px; /* Espaciado interior */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow:  10px 10px 10px rgba(0, 0, 0, 0.3); /* Sombra ligera */
+  }
+  
+
+  .searchPlace {
+    font-size: 15px;
+  }
